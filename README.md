@@ -1,4 +1,5 @@
-# http-jandan.net-ooxx
+# JiandanCrawler
+
 A simple Python web crawler, fetching pictures from http://jandan.net/ooxx
 
 The status bar indicator is from the open source project code from [process](https://github.com/verigak/progress/)
@@ -11,6 +12,8 @@ Python jdcrawler.py `startpage` `endpage`
 The program will save all the picture by page in different folder under `./image` folder
 
 ###Todo
+___________
+
 Recently this program can only save 10 pages, after 10 pages it will be forbidden by the server. I will add a function to change the location after 10 pages. Or save the files to my server instead of computer.
 
 
