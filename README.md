@@ -11,6 +11,10 @@ Python jdcrawler.py `startpage` `endpage`
 
 The program will save all the picture by page in different folder under `./image` folder
 
+**Note:**
+The website has deleted the pages before 900 to save server according to their statement, so you have to assign a start page after 900
+(inclusive).
+
 ###Todo
 ___________
 
