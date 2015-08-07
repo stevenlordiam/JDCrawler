@@ -17,6 +17,12 @@ The program will save all the picture by page in different folder under `./image
 The website has deleted the pages before 900 to save server according to their statement, so you have to assign a start page after 900
 (inclusive).
 
+
+###Demo
+___________
+
+![Demo](https://github.com/stevenlordiam/JDCrawler/blob/master/demo.png)
+
 ###Todo
 ___________
 
