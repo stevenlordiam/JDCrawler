@@ -7,7 +7,9 @@ The status bar indicator is from the open source project code from [process](htt
 ###Usage
 ___________
 
-Python jdcrawler.py `startpage` `endpage`
+```
+Python jdcrawler.py startpage endpage
+```
 
 The program will save all the picture by page in different folder under `./image` folder
 
